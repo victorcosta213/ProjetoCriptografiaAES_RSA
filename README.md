@@ -3,9 +3,11 @@
 Este projeto compara a criptografia simétrica (AES-256) e a assimétrica (RSA 2048 bits).
 
 ## Estrutura
-- `src/`: Código-fonte
-- `data/`: Mensagens 
+- `data/`: Mensagens
 - `plots/`: Gráficos
+- `src/`: Código-fonte
+
+
 
 ## Como executar
 
